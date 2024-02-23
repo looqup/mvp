@@ -1,0 +1,3 @@
+domain,range,relation
+Customer,Locations,liveIn
+Customers,Purchases,madepurchase
